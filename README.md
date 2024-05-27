@@ -152,7 +152,7 @@ Clicking it will show a list of saved states.
 Saved states are like scenarios but you can create whenever and as many as you would like to.
 
 You can either type a new save name or overwrite existing one by clicking on its name.
-You can delete a saved state by clicking on the trash can icon ![trashcan](src/images/trashcan.png).
+You can delete a saved state by clicking on the trash can icon ![trashcan](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/trashcan.png).
 
 ![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/screenshots/saveData.jpg)
 
@@ -166,7 +166,7 @@ On the 3rd from right top corner is an icon for loading simulation state.
 Clicking on it will show a list of saved states.
 
 You can click on one of the items to load it.
-You can delete a saved state by clicking on the trash can icon ![trashcan](src/images/trashcan.png).
+You can delete a saved state by clicking on the trash can icon ![trashcan](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/trashcan.png).
 
 ![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/screenshots/loadData.jpg)
 
@@ -199,7 +199,7 @@ If you're not familiar with orbital mechanics, [Wikipedia](https://en.wikipedia.
 
 Below the Orbital Elements control is Celestial Bodies button.
 
-![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/bodiesIcon.png)
+![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/bodiesIcon.png)
 
 If you click on it,  a little table shows up like below.
 
@@ -213,7 +213,7 @@ Clicking on a name of a body will make the focus move to that body.
 
 On the 4th from right top corner is an icon for statistics.
 
-![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/statsIcon.png)
+![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/statsIcon.png)
 
 Clicking on it will toggle the display of statistics of the whole mission.
 
@@ -236,7 +236,7 @@ Clicking on it will toggle the display of statistics of the whole mission.
 
 Just below the Statistics icon is an icon for toggling setting display.
 
-![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/settingsIcon.png)
+![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/settingsIcon.png)
 
 Clicking on it will toggle the display of a panel for settings.
 Characters in parentheses indicate shortcut keys.
