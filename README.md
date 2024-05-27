@@ -48,13 +48,13 @@ If you want to reset state, choose "Earth orbit" from the scenarios.
 
 #### Periapsis
 
-![Periapsis](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/periapsis.png)
+![Periapsis](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/periapsis.png)
 
 This icon is shown on the periapsis of current orbit.
 
 #### Apoapsis
 
-![Apoapsis](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/apoapsis.png)
+![Apoapsis](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/apoapsis.png)
 
 This icon is shown on the apoapsis of current orbit.
 
@@ -88,8 +88,8 @@ the spin will be and takes longer time to stop.
 
 #### Prograde/retrograde icon
 
-![prograde](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/prograde.png)
-![retrograde](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/retrograde.png)
+![prograde](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/prograde.png)
+![retrograde](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/retrograde.png)
 
 These icons on the navigation ball indicates which direction the rocket is
 going, in relation to the vehicle's orientation.
@@ -103,7 +103,7 @@ Accelerating in this direction will reduce the energy from the orbit and make it
 
 #### Watermark
 
-![watermark](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/watermark.png)
+![watermark](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/watermark.png)
 
 This icon indicates horizontal line in the vehicle's orientation.
 The navigation ball is oriented in a way that the watermark is fixed.
@@ -132,7 +132,7 @@ You'll need it to travel distances between planets.
 
 On top right corner of the screen is a little icon.
 
-![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/menuIcon.png)
+![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/menuIcon.png)
 
 Clicking it will show a list of predefined scenarios.
 
@@ -145,7 +145,7 @@ Clicking one of these items will teleport the rocket to specific location in the
 
 On the 2nd from right top corner is an icon for saving simulation state.
 
-![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/images/saveIcon.png)
+![](https://github.com/AlinaMaistrenko/3D-simulator-of-planetary-orbital-mechanics/blob/main/WebGL-Orbiter-master/src/saveIcon.png)
 
 Clicking it will show a list of saved states.
 
